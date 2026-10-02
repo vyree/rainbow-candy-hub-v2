@@ -1,0 +1,8 @@
+{
+  "name": "RC Birthday Celebration & Virgo Party",
+  "description": "Company profile & personal branding for Fams Rainbow Candy and registration platform for RC Birthday Celebration & Virgo Party - Event Nyanyi Mirip Idola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
